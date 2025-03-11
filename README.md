@@ -9,5 +9,8 @@ This is a small OpenGL renderer I wrote following the [LearnOpenGL website](http
 * Blending for transparency effects.
 
 ## Screenshots
+![A side view of a ukulele and backpack model, made using this renderer](screenshots/model_side.png "A side view of a ukulele and backpack model, made using this renderer")
+![A front view of a ukulele and backpack model, made using this renderer](screenshots/model_front.png "A side view of a ukulele and backpack model, made using this renderer")
+![A view of stone blocks, with grass in front of some of their sides](screenshots/depth.png "A view of stone blocks, with grass in front of some of their sides")
 
 I have since moved on to learning Vulkan, so this project will be on indefinite hold until then.
